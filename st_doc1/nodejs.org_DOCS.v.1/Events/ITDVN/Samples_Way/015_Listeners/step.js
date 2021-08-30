@@ -1,0 +1,1 @@
+const emt = new (require ( 'events' )).EventEmitter;

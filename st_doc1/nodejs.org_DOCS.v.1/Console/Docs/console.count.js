@@ -1,0 +1,1 @@
+console.count ( 'counter_1');

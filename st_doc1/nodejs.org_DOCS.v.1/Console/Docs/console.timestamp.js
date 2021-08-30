@@ -1,0 +1,1 @@
+// https://developer.cdn.mozilla.net/ru/docs/Web/API/Console/timeStamp

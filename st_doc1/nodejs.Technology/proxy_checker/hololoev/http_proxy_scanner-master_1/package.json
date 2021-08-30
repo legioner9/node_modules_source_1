@@ -1,0 +1,26 @@
+{
+  "name": "http_proxy_scanner",
+  "version": "1.0.0",
+  "description": "This is http proxy scanner console tool",
+  "main": "scanner.js",
+  "scripts": {
+    "lint": "eslint --ext .js ./",
+    "lint-fix": "eslint --fix --ext .js ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/hololoev/http_proxy_scanner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/hololoev/http_proxy_scanner/issues"
+  },
+  "homepage": "https://gitlab.com/hololoev/http_proxy_scanner#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eslint": "^6.8.0",
+    "portscanner": "^2.2.0",
+    "request": "^2.88.0"
+  }
+}
